@@ -6,7 +6,9 @@ SimHub: не входит в комплект и должен быть уста�
 
 SimHub Property Server: 1.16.13.7942
 Источник: https://github.com/pre-martin/SimHubPropertyServer/releases/tag/v1.16.13
-SHA256: DDDB4B4CE5713E1AE380E05314FB136A37E8C711F1A1FB9480AA609AE477DAFD
+Модификация: последовательная отправка сообщений одному клиенту для предотвращения разрыва связи
+Соответствующий исходный код: Source/SimHubPropertyServer-1.16.13-d6-fix.zip
+SHA256: 9A3BDF53474BB123AB567789D39BFE2983965731835C9E977BB1C4A2EF90347B
 
 StreamDeckSimHub для StreamDock/FIFINE: 2.3.36.23190
 Источник: https://github.com/pre-martin/StreamDeckSimHubPlugin/releases/tag/v2.3.36

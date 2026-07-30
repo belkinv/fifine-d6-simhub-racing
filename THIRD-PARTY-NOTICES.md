@@ -12,6 +12,8 @@
 
 - Проект: [pre-martin/SimHubPropertyServer](https://github.com/pre-martin/SimHubPropertyServer)
 - Используемый релиз: 1.16.13
+- Изменение: вызовы отправки одному TCP-клиенту сериализованы с помощью `SemaphoreSlim`, чтобы исключить одновременное использование `StreamWriter`.
+- Соответствующий исходный код изменённой сборки: [Source/SimHubPropertyServer-1.16.13-d6-fix.zip](Source/SimHubPropertyServer-1.16.13-d6-fix.zip)
 - Лицензия: [GNU Lesser General Public License v3.0](COPYING.LESSER), основной текст GPL находится в [COPYING](COPYING)
 
 ## SimHub

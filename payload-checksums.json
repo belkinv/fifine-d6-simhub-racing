@@ -1,7 +1,7 @@
 [
     {
         "Path":  "Payload\\Installers\\PropertyServer.dll",
-        "Sha256":  "DDDB4B4CE5713E1AE380E05314FB136A37E8C711F1A1FB9480AA609AE477DAFD"
+        "Sha256":  "9A3BDF53474BB123AB567789D39BFE2983965731835C9E977BB1C4A2EF90347B"
     },
     {
         "Path":  "Payload\\Profiles\\6A5941E2-BB4B-4070-B1A4-17D4D1589F66.sdProfile\\icons\\abs.svg",
@@ -273,7 +273,7 @@
     },
     {
         "Path":  "Payload\\Profiles\\E8D3F36B-B0D3-42CA-AAD5-BBF9A39C8B9F.sdProfile\\manifest.json",
-        "Sha256":  "D9B2646CBD0A227642EAD25CC3FA6E890AA233A1A0F53C096B8B43DD96BF82DE"
+        "Sha256":  "CCDEE04644203541B45D8C2755F5D6B7A3721BF5159C4029CB6010EC6AAE436B"
     },
     {
         "Path":  "Payload\\Profiles\\E8D3F36B-B0D3-42CA-AAD5-BBF9A39C8B9F.sdProfile\\profiles\\5C3C8DF4-B155-46C5-AD83-D7E8A6967D5D.sdProfile\\icons\\best.svg",
@@ -337,7 +337,7 @@
     },
     {
         "Path":  "Payload\\Profiles\\E8D3F36B-B0D3-42CA-AAD5-BBF9A39C8B9F.sdProfile\\profiles\\5C3C8DF4-B155-46C5-AD83-D7E8A6967D5D.sdProfile\\manifest.json",
-        "Sha256":  "5ADDCF27CA6FA7BE853688CE796B6A5F68068801E2AABFCAC1A62B7B4B763E10"
+        "Sha256":  "BF74EA194624E15618DC3A767FDA00FCEFE5B732402B188EE4FE93B8662E4D1C"
     },
     {
         "Path":  "Payload\\Profiles\\E8D3F36B-B0D3-42CA-AAD5-BBF9A39C8B9F.sdProfile\\profiles\\E022522D-9E99-4D03-8388-7B44FA161DF4.sdProfile\\icons\\chat.svg",
@@ -401,7 +401,7 @@
     },
     {
         "Path":  "Payload\\Profiles\\E8D3F36B-B0D3-42CA-AAD5-BBF9A39C8B9F.sdProfile\\profiles\\E022522D-9E99-4D03-8388-7B44FA161DF4.sdProfile\\manifest.json",
-        "Sha256":  "7B011C057ED4B171BB96F87F12D3C14117D41903F78BD5E471D92D185EC65689"
+        "Sha256":  "779A7F911595B12B2B0E2A07421FCC3F03FCA59E6D9A681F0DA02F325AB2E102"
     },
     {
         "Path":  "Payload\\Profiles\\MOXDMBR0-263R-2D4X-FN8O-MB4OA3223981.sdProfile\\icons\\abs.svg",
@@ -477,7 +477,7 @@
     },
     {
         "Path":  "Payload\\Profiles\\MOXDMBR0-263R-2D4X-FN8O-MB4OA3223981.sdProfile\\manifest.json",
-        "Sha256":  "20CE194068948530F076A19DAD4E37199CBA16D232814896A73D40FCB72E552E"
+        "Sha256":  "A69DBF5B15F739E87DE5B242F6048F0FD891BD200DF6B8F5728C79CC022587AD"
     },
     {
         "Path":  "Payload\\Profiles\\MOXDMBR0-263R-2D4X-FN8O-MB4OA3223981.sdProfile\\profiles\\0968CFD2-3068-4B41-9D0A-A404CC3C4A9B.sdProfile\\icons\\chat.svg",
@@ -609,19 +609,19 @@
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\appsettings.json",
-        "Sha256":  "9931F7F143A844892B0BE8D8E6B366B05A395475B9D8AC915B673D8A9D86EBD5"
+        "Sha256":  "339370E9B7D9F393575BFFFF3043A77C726BDBCBCD73F6DEF31E904E5802FD74"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\actions\\dial.svg",
-        "Sha256":  "A9B207EE193D8EFA8DA4E8B558A4FBB833654B16228E2DB6FB02BB106389DE1E"
+        "Sha256":  "C3FBD987E9A0C471B647111D77BAEDD694BFF1DFDAE5E064096EAF5665F8A878"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\actions\\flag.svg",
-        "Sha256":  "F8987124C11076A9D62E63DE5F54831593207CBF30A6AF9EB7812808206DAC57"
+        "Sha256":  "C8B51779D2E09D8890FB0391C41068A3AC5026EA6BEC32EADE93E450301524BE"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\actions\\generic-button.svg",
-        "Sha256":  "4435248463B652FFDE9320D71E4D478BBC2AAB27F9935543523A533369680940"
+        "Sha256":  "8316CC928A480DAC200EE136B9FE94F0C6C6BCE019230EAAD647A3D219EE0B3F"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\actions\\hotkey.png",
@@ -685,11 +685,11 @@
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\DiffLockOff.svg",
-        "Sha256":  "6C2DDC9E161E0F06B495AB5480F66EC475ED205192BCDE3324FB4AF953B77F16"
+        "Sha256":  "CB328363405CA6CB00B07B5DC655040BDD8A24BA84F73441AF066EB6BEFA7F12"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\DiffLockOn.svg",
-        "Sha256":  "B98D8CC790BF38F4237C610B5CACA7BCC8937ACFEEC290302336A472BD517241"
+        "Sha256":  "EBE29F2B4CB07EBE4435D6A629D330397A2D7053CDFE3EC4B67F44E84E74C685"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\Engine Off.png",
@@ -761,11 +761,11 @@
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\RoundNoRestriction.svg",
-        "Sha256":  "2ADD369E186AECD3A7D523075C96CEB525387867F866B187BC31620932466FDA"
+        "Sha256":  "F77C79B1443E55E11ACDBE75625B3B97E3A361FC78C45D6E19CCD7D501A2F3B2"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\RoundRed.svg",
-        "Sha256":  "E3C622DA51381D860D0DC3C253BB46A78986A16501A16639DA646E21B44295B8"
+        "Sha256":  "C0A765564AC784C457101ACCC5B440576407F619FF67800726762B474B463E78"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\TC minus.png",
@@ -785,15 +785,15 @@
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\TrailerAxleFixed.svg",
-        "Sha256":  "B5B9E85AB84D4F63E9DBB981862E43E73EF324B751E7253CA551C2EA3901A292"
+        "Sha256":  "BA4B77EBF1BB02C8420351FE0994EB402650B404B6E171DF13B57C45F66030BB"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\TrailerAxleLifted.svg",
-        "Sha256":  "483FEEEF17D228DF4948383AB066987948812CC8F67BF60BD1EB23DD03CD1D63"
+        "Sha256":  "816FB22F19D99525D7ACAD16EAE2799F030043BB6C62733F09B0036E272FEF6B"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\TrailerAxleLowered.svg",
-        "Sha256":  "2625F13586F579A061D804C593D75FFEC95B0006DD4D4E817C1FEF47FFD90854"
+        "Sha256":  "DC4B765BB6852C5564FD622D211A1C8E1AF74F0B84289DF131F33B9CB5F41C01"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\Transparent.png",
@@ -801,55 +801,55 @@
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\TruckAxleFixed.svg",
-        "Sha256":  "2278F34C5E6BBD0EC84B898BCABE00E3D26EC2895EDC8B374AE7DB86D7F00F88"
+        "Sha256":  "A446CD67DBFA50EC54BAFE0DFDFA5AE168E82C246C946EBE3DB2E9C2EA9052F2"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\TruckAxleLifted.svg",
-        "Sha256":  "DC11879E5142C9DFCAD17C621BF4F598AB4415CF632ABAA24B34BC8A58ED4A62"
+        "Sha256":  "B83A024309C3F78691F02BDAE0AAB602DAEC6855AE4619474D648E3C886FE224"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\TruckAxleLowered.svg",
-        "Sha256":  "66701A7F73FA78B0F03DD826A88B5A040C1DA53B49CB7A9A96A5227669F6B7EF"
+        "Sha256":  "877D1DB75454018ACF976E405210BA49F7F9C119C7761019E699D0D83BD90195"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\WiperOff.svg",
-        "Sha256":  "9D92532E9A9AB38588A5B8C855EFB7B6FB7567015F1A29159DCBB073993A2F19"
+        "Sha256":  "A1B929D076F19390634F66CC38EBFB96AFE40F5F8FB055D83BD6E50E615237BB"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@core\\WiperOn.svg",
-        "Sha256":  "EB78BEBF625913145DF1BED74DBC3FE3BD64A150B3A2B6E2C61BEE9352F91750"
+        "Sha256":  "3B69B2EF1A67E0630D047D0C774429A359A6844DE148AC9449AF6F4A6F090CE0"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@flags\\flag-black.svg",
-        "Sha256":  "74DE864D9E6AEDB0AAD1B8B2A21A2860FA1911B0C40E9FFAFF79B91DD50868D0"
+        "Sha256":  "AF70BD0582FB07F5F9C7E3027639DC7B956B1CAD2FD21952862060774B3C04B3"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@flags\\flag-blue.svg",
-        "Sha256":  "B58F17F294667B0CE8618292D0FEF7325C82E75F48B93072B9A1E711EBBC5952"
+        "Sha256":  "7B23BDBD3998C127B2E70B8774A725E4FF68B9C2CB67FE67B3716801A45C92F8"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@flags\\flag-checkered.svg",
-        "Sha256":  "FAB1F26A75F5BDA87839DE4BBD27CCBCB03AE4DCA20350B2B4FF81CA39C117E9"
+        "Sha256":  "F84112B39FECC665142DF5AF6CE4892F250CBB8771DE9528580CCA222A71FCB5"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@flags\\flag-green.svg",
-        "Sha256":  "C720868DA67B5F0FE4F46633F313F833DC5CC562397590F05B4BA56AA03F201C"
+        "Sha256":  "2ABBB8F69A027FF3A557B632541D48D047DA89D0CCE5BD4E8ECF02FA179A6469"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@flags\\flag-none.svg",
-        "Sha256":  "90A3B6969BE5AAB3BB960E3DDFD373F5982D150B60E206DD5E4040EBC6C9237F"
+        "Sha256":  "091D37636BAE1AE551FD0F2E4E5635CECCA389B4F10A8FDE8CD03AA2FFF9D68B"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@flags\\flag-orange.svg",
-        "Sha256":  "B6D9871B13582CA2B8CBE1B7BD77AC974A080F4F634320F3A4CC718AC2B65B75"
+        "Sha256":  "C52CD9E8C15152E5DDBBE94A259D715F8FF7B35D2A0353CD9F4D21AC1595B1D9"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@flags\\flag-white.svg",
-        "Sha256":  "15955A739C5356C7C1CAD48CAB294885EA94979D3E9A43C81808A16AC7511226"
+        "Sha256":  "1E0096042459CA917FECA7A526567F2158902F45785A93911E68527E0FB7A786"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@flags\\flag-yellow.svg",
-        "Sha256":  "A383402D012606F2AEAA3F7FE0B5397372D511E315BEA60BFD06139C8445C6F5"
+        "Sha256":  "26C5A28F19B17407DCED96331AB7BE15F5B85D67F1DDE18AFA3112E9D197443A"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\custom\\@flags\\flag-yellow-s1.png",
@@ -1105,15 +1105,15 @@
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\icons\\dial.svg",
-        "Sha256":  "B56755746C95E14E443269A4C5A6291A721DABB3EB8B71BE074D9ECFCBACE3A5"
+        "Sha256":  "6EBC43460ADD249067F046081BD830EC84FAAE3E97FD2AC7C29A449AA6D6A69E"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\icons\\flag-checkered.svg",
-        "Sha256":  "BDF00877B746E00FBE726BC02B31939F24320D2C16E1D26314450897717D1BE7"
+        "Sha256":  "5D503C70688E19864AE30AA3D40CBD295892B3F6E1B2CEEA8E7937C2BDCC1FE6"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\icons\\generic-button.svg",
-        "Sha256":  "C53F79E65363B8ECB230973BCC3A822F9E0C6B4CD1071761D24BA3D4BEC6B2CE"
+        "Sha256":  "7F7D02C0F80C16F154BF4B9C89D959C9ACBD8507EAE07C5E8EA3A48AE7342249"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\icons\\input.png",
@@ -1141,7 +1141,7 @@
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\icons\\undefined.svg",
-        "Sha256":  "8B0618E50E748F129CCA649C867852B2D2194148C91D177AAE1112AD481DDB5A"
+        "Sha256":  "F9378267AFAFCA98FD8F236BA268F60E86935F93942A4C06FBB639078C95E14A"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\images\\store\\plugin.png",
@@ -1153,103 +1153,103 @@
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\layout\\dial-fullscreen.json",
-        "Sha256":  "D336609DDF0EB23224D0FAED83BE0AF673E8DF225CC9F9515ACB3C27F3B9A97E"
+        "Sha256":  "E83EC433437F55422F2B8B6E9F181FB89C20B59792605747285F8491064871C9"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\layout\\dial-layout.json",
-        "Sha256":  "89EE5262F9F6F2C019406475C74600FF0F1FA1301A466A6965228F6199186734"
+        "Sha256":  "39F9BE56FE12C27FA224E3C0DC5AE60ECCB61DB590C9893D4508F16372A7D81E"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\manifest.json",
-        "Sha256":  "673CE3ACF8B26D79F452D6EC8AA3DA6B1DC961985673DFF3BAEB275008FFC849"
+        "Sha256":  "89697955B35CDF4900422E7C3FE20284EBC026FEEE8C78D7C378A34ECCE269E3"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\manifest-streamdeck.json",
-        "Sha256":  "E19CA933E4A7547ACA8CE2748C43F4B05AB0E216B415B6585B4FF995634436CC"
+        "Sha256":  "4486FCEFC1109700CD76CCBC2DDFD8D776EAC32C3D02189C492B4E9582CEF32E"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\manifest-streamdock.json",
-        "Sha256":  "673CE3ACF8B26D79F452D6EC8AA3DA6B1DC961985673DFF3BAEB275008FFC849"
+        "Sha256":  "89697955B35CDF4900422E7C3FE20284EBC026FEEE8C78D7C378A34ECCE269E3"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\components\\sib.html",
-        "Sha256":  "C438FE6A9385ADFE83D296F2A2E791908BC51A29E5E18D6ACB7C060B7F0B14EA"
+        "Sha256":  "CDB485296114F7A88E6DA7359B1F340CB9B138063E414F01076E1A2F44085020"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\components\\sib.jsx",
-        "Sha256":  "7C3B0B316CD41E6E7C00040FB1E5DE750E6DD9F9D493026D55248CA60CB70270"
+        "Sha256":  "3F423B3E9844150A6FF4EB569027C174EB88C1FA5FA2B05F56FC7E8069C5AF03"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\css\\pi.css",
-        "Sha256":  "7F95F37510384BD330F3DBA8CDD9426A6E0FE27F14D9DDF472A346B8F181BF4D"
+        "Sha256":  "46EF620617AFFFC1AA62CE7AB380C06E32940601B2A8C0D59EFF9B325BB38638"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\dial.html",
-        "Sha256":  "AF59C493CC264D7837276AD692C3144330F5AA308B910D0CC6EBCCD0EA92EA93"
+        "Sha256":  "1D043755154C7EDFF3DC83F78D6D70D4FB62F5E7CE0696887012DBCFCC8F03F7"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\flags.html",
-        "Sha256":  "2D1DE338EEDA46F499E55CB89E366310715C332B552FBA3EC69129E11A26AF64"
+        "Sha256":  "1E66E6085BB983BBDF3A864FCF53FBEBBEF63FA49C22FC5EC32A2B916AEA118F"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\genericButton.html",
-        "Sha256":  "CC0E7DF7378ACAE764F8C2B47EC86D577370B36D25422CA53F6D71F70D81BBDF"
+        "Sha256":  "A257F97CC43C94550B6415FA1D65E668B02459D38A15BA179494201092D74F1C"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\hotkey.html",
-        "Sha256":  "D52249897B537DFB261521B7AF8D3EBD121FA93EED8B6A0BFA5894C641F1DCDD"
+        "Sha256":  "B3B1BACCB07183CF761023A735BFDE2692ECF0B346DAFCB0C4EF5399277548CD"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\hotkey4.html",
-        "Sha256":  "819AFDE92389B43212C8F56E56505E287244BEC9976E215A4D6E693D23BEFA90"
+        "Sha256":  "6639F77636ED6B13C1872BC8ECB2A009F1D5626ECF81FEB63F8E81BB3F68379B"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\input.html",
-        "Sha256":  "696325D0DA0959743B07B370BD43F0C186CDFD459646E6E3D80FDED3617EB94C"
+        "Sha256":  "DA9D6E01C260182F0D9883A63DAB2369596F665389E01637F0D0D710B91E768C"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\js\\common.js",
-        "Sha256":  "57A50CE1F6BFA4FEA5D8F0D4AD2562B29F9A6437C4702061D5FC1C8103D31EA1"
+        "Sha256":  "B994A4DA99AFA276AF356CF00C9D342795CE522AD762410EB3BA040ADBA15180"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\js\\dial.js",
-        "Sha256":  "6F89FE24F0EE82091869071F1029C5A1D45DCDFD10D5280654D51818F45E92F2"
+        "Sha256":  "AA03D8494607D7D0CF9DAB338473629B0711AD1B9219D22788259E4B7FC0A3D3"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\js\\flags.js",
-        "Sha256":  "018C3EF71BDC401E62031906266AE45F10CEACF01C1202176BAE610E5328DED6"
+        "Sha256":  "BEECE7A000ACDD8738CABFDEB10900F75E5D33E5F41B6B3EA08B666C161FC75F"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\js\\genericButton.js",
-        "Sha256":  "7DFB4006DD1D24D56331CC64199293C5D5B5B32C1182F03E31345B6DDF0F433D"
+        "Sha256":  "0826C567E69E5E6F0DCBDDEFAB7A2A46454C8D36875036ADB58AD9C94CCB08C8"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\js\\hotkey.js",
-        "Sha256":  "6B13E85010E3EF82281FC1691930E1A10548BF1320A1235F182079A4E36133EB"
+        "Sha256":  "1F108D4C7A5763724D847F29DCD7EB22739144DE8CEF5B980D0224EA7B2D9055"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\js\\hotkey4.js",
-        "Sha256":  "51273FCCF5A419B609E6339A35D65AD1A5AEE4BF066FF16A8CCB2581514D1414"
+        "Sha256":  "C721142EA8367965F0094B5B99BA3E14EC9B46AFD9014A0ECB869465ECC458CF"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\js\\input.js",
-        "Sha256":  "B0D9E9D3B9757FC7532F09F14F48DAC7963CDE1EC2E40CA3A2410C1CF7A11CB0"
+        "Sha256":  "17D865E5F0545E1C74A3787A09ACE17B77746D290F8508199F6C224A6B354590"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\js\\shakeit.js",
-        "Sha256":  "46EB400D4934E5BB109F0F44BFDDAF262ECFA1B5FF0F4A49A60C9C4620336C81"
+        "Sha256":  "E2C9D35E8346615215235EF182D99461E1D2031C43F2B5D213B221F19361BBBF"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\js\\simhubrole.js",
-        "Sha256":  "219228D7C26C2DF3EE9F6D79ADD8015C7F074A436AE47FAAF23D3664EC10B0BD"
+        "Sha256":  "603218CD9309C5D4F4DC31CC54B3D36A3CF446D4B4B054DB936E857EAF1FF94F"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\assets\\caret.svg",
-        "Sha256":  "9C19491775A7D39DD6E1EE8848D0CCCAB3C59853112676E2E203A9A8C014D8E8"
+        "Sha256":  "DCEF5A8ED6F34C42FCFBA52D3D754580CAEBDACD06271F47D002A6E5BF95BCEE"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\assets\\caret_closed.svg",
-        "Sha256":  "A54249E0A0690B7E942AB5DA6C82E594437EC24DE6F271BB66D113D5996B5A12"
+        "Sha256":  "1324D13DDC8055B7F8B1C68024D44B7A7D4195A3C24D529A308129A8ED91DC8A"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\assets\\check.png",
@@ -1257,83 +1257,83 @@
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\assets\\check.svg",
-        "Sha256":  "7D448440F1FA9277EFA0E5C220257A56CA510B85150B7650503D6365C761DF1F"
+        "Sha256":  "1001E0B2FA5D4DB19F64359C5A1EE84C481D8DCE23A9AF1B5D4A83E35E5D8398"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\assets\\elg_calendar.svg",
-        "Sha256":  "3DDF1D142C07E7AE73915EFD867D8449C0E07B269772B6DB0C8D1BD9DA3C24EE"
+        "Sha256":  "B372145AC19CFDFA514C567EB24FD54AE0D6519BB1BF60EF1B13F0A7FAAF01C1"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\assets\\elg_calendar_inv.svg",
-        "Sha256":  "0BACFEF5A8BB4DB20AACBB6E3467C643B1403045034BDA6ED6C7B70A960298C7"
+        "Sha256":  "9E4A8433DC8288ECFC5B2AB5802B958E0295CBB3B12E85CF17E8C7C77DD93824"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\assets\\rcheck.svg",
-        "Sha256":  "2EEEC5C8E6C51002A7CB2355937A08589A4ADDAC1572645483A3C3977EF3E509"
+        "Sha256":  "E743D2B57069773A201903F2EECF61904074A4BBC37CAA1089306DBC11C1C1A3"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\assets\\tick.svg",
-        "Sha256":  "E03EE7CFC7B8FC0051D0392BF68C340E8293E32DF121E17F2DFA9DDC9AC92F35"
+        "Sha256":  "FB54AA699223D675E4AF93D0BDDC5D853007CF3E09691F036A109A65E3F5F4C8"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\css\\sdpi.css",
-        "Sha256":  "7494A985BE2A89B234280E6256B544809ACFC3CB44FEDEDB0A847EC85FFE876F"
+        "Sha256":  "C5C7A6B53E1BA3FCA312AAD25609AAA1BF04D1C8EA4EA8ABE4098C23526938CA"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\js\\action.js",
-        "Sha256":  "621D48A9A5795EF9EE89744C08A0E3801D29222DBD80A576427D697F621A20A5"
+        "Sha256":  "17874C393CEC6123376C8E461DC7C9E3669F38B161049FD8CF8C387D9DDD1F83"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\js\\api.js",
-        "Sha256":  "4D1A72022ACEA583906E85CE07883CC86C8144445CDDCF181FA6BFDA9B1D63A0"
+        "Sha256":  "03C39052F10E18D9C8D04FA9DD6553ABD7F2AE895949F3A60673BC77B2D7139C"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\js\\constants.js",
-        "Sha256":  "081AC59F3AD1758A2124AD776E6563E608AAF3E98CAA7007C64A753AD0FDDDF6"
+        "Sha256":  "8D70E9855D9830631822AEAE7ACF53F1392FF1308E45AFAFCF42075ABAE2535D"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\js\\dynamic-styles.js",
-        "Sha256":  "1E8E9B1704FEE3352645414A026DE61B01B7AF777446EDF3ABA0251A002BF523"
+        "Sha256":  "907DD50944E69A22CFE80043EF936D4624549C56005A9A75B4249AD9643B5F97"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\js\\events.js",
-        "Sha256":  "2419ED3B1366345B20BF8E8653181A7980DD4F7E19417492C905B5DE761D0151"
+        "Sha256":  "D5A655A294E2E5EDF101F219CF805E8F62CED4129C60016B16F97879D3750CFB"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\js\\property-inspector.js",
-        "Sha256":  "F64A59368159DEDDF95CDA0FCB8E5507E10AB5B56452B9E6EEA8721843AB7A9C"
+        "Sha256":  "BC7E8EFA93ADDE38788DC2BE10F1998127A80D13A2117695370A611D530FECCB"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\js\\prototypes.js",
-        "Sha256":  "2A26924FAD4D41F72A51E7DBEF84EA7FCF4AA3FB33E54589CCD6783AE84089B2"
+        "Sha256":  "5C23D7CD43106769CF5572BD39BD2B941BEE7D319E2A4C08B21E790D085ABC55"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\js\\stream-deck.js",
-        "Sha256":  "D59A5E04DD4AE8201765D790F04C3F03238A00C59CFE253CABDF6AF7AAED9289"
+        "Sha256":  "9A59780D5927BD966B95B66CE2E5AEB11B31B849215D98FDACE27D87AF2CADCC"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\js\\timers.js",
-        "Sha256":  "21652529911DACE2376BC5AF3A6FDFB748022E8E99ABE333DC88D39BB3F1D150"
+        "Sha256":  "B36196D9CB8B4BA79AFEC1831F5C7C992E6E898C9054CD800CA4C8A7CD9E0AB3"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\libs\\js\\utils.js",
-        "Sha256":  "31CDCEA36ECA63CAEFF40676299F561D72655B1F6CBD4B0242E4C8F0C2EADD04"
+        "Sha256":  "B318D40738FD2507D78808A2ABFEB32DCF5CB19CB681BAE4F80D1AA4EAE41453"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\react\\babel.min.js",
-        "Sha256":  "8D578251037586837563BD0A1B5F6D2CB6E960E8B0CFEBE8946E20A2F5B303B8"
+        "Sha256":  "0995A9C219020C6B11084B14D748C0F4FACB07941AA6A6CADB54BD26F48DA738"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\react\\material-ui.production.min.js",
-        "Sha256":  "AA1B65720EB9FF039E1A2A61063A19BF76464F6E50ABD17C72F7C688DC42C7DC"
+        "Sha256":  "40B0AD6E2133ACFD965B9D768749E20F3CC2CAD29A55667BEECB7AB317FA15A9"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\react\\react.production.min.js",
-        "Sha256":  "DA97C5BF7FD0DA10770D5BEAF06646F46C9A700F1D93771ABC03E8BC384B0657"
+        "Sha256":  "4B4969FA4EF3594324DA2C6D78CE8766FBBC2FD121FFF395AEDF997DB0A99A06"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\pi\\react\\react-dom.production.min.js",
-        "Sha256":  "D8C7D6C3AEAF849D2E9B44579CA424DE4B004D3D9C3EAA05C76C19DECDF5987B"
+        "Sha256":  "21758ED084CD0E37E735722EE4F3957EA960628A29DFA6C3CE1A1D47A2D6E4F7"
     },
     {
         "Path":  "Payload\\StreamDockPlugins\\net.planetrenner.simhub.sdPlugin\\StreamDeckSimHub.exe",
