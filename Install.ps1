@@ -15,6 +15,34 @@ function Test-Administrator {
     $principal.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
 }
 
+function Get-PayloadHash {
+    param([Parameter(Mandatory = $true)][string]$Path)
+
+    $bytes = [IO.File]::ReadAllBytes($Path)
+    $textExtensions = @('.bak', '.css', '.html', '.js', '.json', '.jsx', '.svg')
+    if ($textExtensions -contains [IO.Path]::GetExtension($Path).ToLowerInvariant()) {
+        $normalized = [Collections.Generic.List[byte]]::new($bytes.Length)
+        for ($index = 0; $index -lt $bytes.Length; $index++) {
+            if ($bytes[$index] -eq 13 -and $index + 1 -lt $bytes.Length -and $bytes[$index + 1] -eq 10) {
+                $normalized.Add(10)
+                $index++
+            }
+            else {
+                $normalized.Add($bytes[$index])
+            }
+        }
+        $bytes = $normalized.ToArray()
+    }
+
+    $sha256 = [Security.Cryptography.SHA256]::Create()
+    try {
+        ([BitConverter]::ToString($sha256.ComputeHash($bytes))).Replace('-', '')
+    }
+    finally {
+        $sha256.Dispose()
+    }
+}
+
 if (-not (Test-Administrator)) {
     $arguments = @(
         '-NoProfile',
@@ -52,7 +80,7 @@ try {
         if (-not (Test-Path -LiteralPath $filePath -PathType Leaf)) {
             throw "Не найден файл пакета: $($entry.Path)"
         }
-        $actualHash = (Get-FileHash -LiteralPath $filePath -Algorithm SHA256).Hash
+        $actualHash = Get-PayloadHash -Path $filePath
         if ($actualHash -ne $entry.Sha256) {
             throw "Контрольная сумма не совпала: $($entry.Path)"
         }
@@ -254,6 +282,9 @@ try {
     }
     if ((Get-Item -LiteralPath $propertyServerTarget).VersionInfo.FileVersion -ne '1.16.13.7942') {
         throw 'Неверная версия Property Server.'
+    }
+    if ((Get-FileHash -LiteralPath $propertyServerTarget -Algorithm SHA256).Hash -ne '9A3BDF53474BB123AB567789D39BFE2983965731835C9E977BB1C4A2EF90347B') {
+        throw 'Property Server установлен без исправления конкурентной отправки.'
     }
     foreach ($profileId in $profileIds) {
         $profilePath = Join-Path $profilesRoot $profileId

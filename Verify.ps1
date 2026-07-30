@@ -53,6 +53,9 @@ if (-not (Test-Path -LiteralPath $propertyServer)) {
 elseif ((Get-Item -LiteralPath $propertyServer).VersionInfo.FileVersion -ne '1.16.13.7942') {
     $errors += 'Версия Property Server не равна 1.16.13'
 }
+elseif ((Get-FileHash -LiteralPath $propertyServer -Algorithm SHA256).Hash -ne '9A3BDF53474BB123AB567789D39BFE2983965731835C9E977BB1C4A2EF90347B') {
+    $errors += 'Property Server не содержит исправление конкурентной отправки'
+}
 
 $pluginManifestPath = Join-Path $pluginRoot 'manifest.json'
 if (-not (Test-Path -LiteralPath $pluginManifestPath)) {

@@ -5,7 +5,7 @@
 В репозитории находятся:
 
 - адаптированный StreamDeckSimHub 2.3.36 для FIFINE Control Deck;
-- SimHub Property Server 1.16.13;
+- SimHub Property Server 1.16.13 с исправлением разрыва связи при одновременной подписке кнопок;
 - сцена `Le Mans Ultimate` — 3 страницы;
 - сцена `Assetto Corsa Competizione` — 3 страницы;
 - сцена `Assetto Corsa EVO` — 3 страницы;
@@ -45,7 +45,7 @@
 
 Запустите `Verify.cmd`. Проверяются:
 
-- версии Property Server и StreamDeckSimHub;
+- версии и контрольную сумму исправленного Property Server, а также версию StreamDeckSimHub;
 - наличие трёх сцен и трёх страниц в каждой;
 - соединение с Property Server на порту 18082, если SimHub запущен.
 
@@ -75,4 +75,4 @@
 
 ## Сторонние компоненты
 
-Сведения об авторах, исходниках и лицензиях находятся в [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+Сведения об авторах, исходниках и лицензиях находятся в [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). Соответствующий исходный код изменённого Property Server и регрессионный тест находятся в папке [Source](Source).
