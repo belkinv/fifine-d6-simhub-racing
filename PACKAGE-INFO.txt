@@ -1,0 +1,21 @@
+Комплект: FIFINE D6 / D6-Pro — LMU + ACC + AC EVO для SimHub
+Дата сборки: 2026-07-30
+
+SimHub: не входит в комплект и должен быть установлен заранее
+Официальный сайт: https://www.simhubdash.com/
+
+SimHub Property Server: 1.16.13.7942
+Источник: https://github.com/pre-martin/SimHubPropertyServer/releases/tag/v1.16.13
+SHA256: DDDB4B4CE5713E1AE380E05314FB136A37E8C711F1A1FB9480AA609AE477DAFD
+
+StreamDeckSimHub для StreamDock/FIFINE: 2.3.36.23190
+Источник: https://github.com/pre-martin/StreamDeckSimHubPlugin/releases/tag/v2.3.36
+SHA256 EXE: 12036708917C2DB7FF86D1A1493B32117B70A7D951262AE45AA1F32E6169B674
+
+Сцены:
+- Le Mans Ultimate — 3 страницы
+- Assetto Corsa Competizione — 3 страницы
+- Assetto Corsa EVO — 3 страницы; команды назначаются вручную в игре
+
+Полный список контрольных сумм полезной нагрузки:
+payload-checksums.json

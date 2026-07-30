@@ -1,0 +1,445 @@
+{
+    "Actions": {
+        "0,1": {
+            "ActionID": "387f3760-1a84-496d-98ae-777899913bd3",
+            "Controller": "Keypad",
+            "Name": "Realtime Chat",
+            "Settings": {
+                "__sharpDeckUUID": "f336a27e303e4f108e66ef1df6f05704",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "RETURN",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ЧАТ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ЧАТ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "0,2": {
+            "ActionID": "8369f338-8ede-4bef-b17a-307061c51ef6",
+            "Controller": "",
+            "Name": "Instant Replay",
+            "Settings": {
+                "__sharpDeckUUID": "cc7064665afd4469aee786771445889c",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "R",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "РЕПЛЕЙ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "РЕПЛЕЙ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "1,1": {
+            "ActionID": "855ca6d0-7d2a-4bfd-8809-d12930cc6232",
+            "Controller": "Keypad",
+            "Name": "Quick Chat #1",
+            "Settings": {
+                "__sharpDeckUUID": "60199c3243c046dc8fa6b0bea0354af6",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F1",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ЧАТ 1",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ЧАТ 1",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "1,2": {
+            "ActionID": "163c3f1b-7250-4be6-a2f6-44ca0455d6bb",
+            "Controller": "",
+            "Name": "Screenshot",
+            "Settings": {
+                "__sharpDeckUUID": "364ffa08ded5427bbe89a6cebd93abfd",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F12",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "СКРИНШОТ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "СКРИНШОТ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "2,1": {
+            "ActionID": "0ab8473a-758b-4173-aa79-88d4527adec8",
+            "Controller": "Keypad",
+            "Name": "Quick Chat #2",
+            "Settings": {
+                "__sharpDeckUUID": "0d893078b4d543a9ae924a93dc829ec1",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F2",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ЧАТ 2",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ЧАТ 2",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "2,2": {
+            "ActionID": "b03wm3s1-011t-q14j-5783-bv7j1m5b4a10",
+            "Controller": "Keypad",
+            "Name": "Next MFD",
+            "Settings": {
+                "__sharpDeckUUID": "1404d79226af4ebbb0bf8eeae0a84eb3",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "LSHIFT",
+                "longAlt": false,
+                "longCtrl": false,
+                "longHotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false
+                },
+                "longKeypressShortHoldTime": "50",
+                "longKeypressTimeSpan": "500",
+                "longShift": false,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubPropertyClearNameCache": "",
+                "simhubRole": "----",
+                "titleFormat": "",
+                "titleSimhubProperty": "",
+                "titleSimhubPropertyClearNameCache": ""
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/icons/off",
+                    "Title": "MFD\nНАЗАД",
+                    "TitleAlignment": "bottom",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 10,
+                    "Image": "S94YQI4W8ET8R50J62OWX8IDEP9.png",
+                    "Title": "MFD\nНАЗАД",
+                    "TitleAlignment": "bottom",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "3,1": {
+            "ActionID": "72bc328f-55df-4e64-a34f-4ef8ad883310",
+            "Controller": "Keypad",
+            "Name": "Quick Chat #3",
+            "Settings": {
+                "__sharpDeckUUID": "d570ce7ebb5348c5a18f7de20505604f",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F3",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ЧАТ 3",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ЧАТ 3",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "3,2": {
+            "ActionID": "34209lz5-5g93-tv30-33n2-to27h05ut100",
+            "Controller": "Keypad",
+            "Name": "Next MFD",
+            "Settings": {
+                "__sharpDeckUUID": "aea922c07d414c97946bbd0eadd470e7",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "RSHIFT",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 10,
+                    "Image": "images/icons/off",
+                    "Title": "MFD\nВПЕРЁД",
+                    "TitleAlignment": "bottom",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 10,
+                    "Image": "9598DU44143U7058N0I27U2VZ38.png",
+                    "Title": "MFD\nВПЕРЁД",
+                    "TitleAlignment": "bottom",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "4,0": {
+            "ActionID": "1w62h744-tg43-406n-373x-n7iyko38d20u",
+            "Controller": "Keypad",
+            "Name": "Next page",
+            "Settings": {
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 11,
+                    "Image": "Images/btn_nextPage",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.page.next"
+        },
+        "4,1": {
+            "ActionID": "c6d7c978-3a0c-42ae-8431-3ee64921ebbf",
+            "Controller": "Keypad",
+            "Name": "Quick Chat #4",
+            "Settings": {
+                "__sharpDeckUUID": "5ee8f0dad2ec4274a58914b2ca735909",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F4",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ЧАТ 4",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ЧАТ 4",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        }
+    },
+    "DeviceModel": "20GBA9901",
+    "DeviceSerialNumber": null,
+    "DeviceUUID": "D6",
+    "Name": "MEDIA",
+    "Version": "1.0"
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <rect width="144" height="144" rx="24" fill="#11151c"/>
+  <rect x="7" y="7" width="130" height="130" rx="20" fill="#1769aa"/>
+  <rect x="12" y="12" width="120" height="120" rx="17" fill="#11151c" opacity="0.82"/>
+  <text x="72" y="70" text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial,Segoe UI,sans-serif" font-size="24" font-weight="700"
+        fill="#ffffff">MFD +</text>
+</svg>

@@ -1,0 +1,572 @@
+{
+    "Actions": {
+        "0,0": {
+            "ActionID": "c35b717b-aff1-47a7-9fcf-dc4fc368e623",
+            "Controller": "",
+            "Name": "ACE Brake Bias Increase",
+            "Settings": {
+                "__sharpDeckUUID": "bd046c4087cd4e0b8d0986881b9e168b",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F18",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "БАЛАНС\n+",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "0,1": {
+            "ActionID": "8c91296a-37c3-47ff-b360-9bd148fa77bd",
+            "Controller": "",
+            "Name": "ACE ABS Decrease",
+            "Settings": {
+                "__sharpDeckUUID": "087de124c1e64d5ea00475bbb1fac4f6",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F17",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "ABS −",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "0,2": {
+            "ActionID": "1425da65-a3e2-4649-be57-13df9483f49a",
+            "Controller": "",
+            "Name": "ACE Engine Map Increase",
+            "Settings": {
+                "__sharpDeckUUID": "7631ef36fc8244ffaf8766b12b85a292",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "NUMPAD1",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "КАРТА\n+",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "1,0": {
+            "ActionID": "3cf4e6a2-13a8-42c8-a112-13c3b24238f6",
+            "Controller": "",
+            "Name": "ACE Display Page Previous",
+            "Settings": {
+                "__sharpDeckUUID": "7d165026e0304cdd9ea56e63993607a1",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "NUMPAD4",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "ДИСПЛЕЙ\nНАЗАД",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "1,1": {
+            "ActionID": "ece824f1-6d2d-43c3-8485-3380e4d4f53f",
+            "Controller": "",
+            "Name": "ACE ABS Increase",
+            "Settings": {
+                "__sharpDeckUUID": "3a7c7de04e5048178cf6c13dc9fc678b",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F16",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "ABS +",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "1,2": {
+            "ActionID": "35d1139b-d2c0-4df8-8564-c070d184acf8",
+            "Controller": "",
+            "Name": "ACE Engine Map Decrease",
+            "Settings": {
+                "__sharpDeckUUID": "be199585be1f49c5ab402136b31713db",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "NUMPAD2",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "КАРТА\n−",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "2,0": {
+            "ActionID": "1f10bebe-a881-4336-98ba-f45d773a1cb1",
+            "Controller": "",
+            "Name": "ACE Display Page Next",
+            "Settings": {
+                "__sharpDeckUUID": "821023c605544754adb183fa1f1815db",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "NUMPAD3",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "ДИСПЛЕЙ\nВПЕРЁД",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "2,1": {
+            "ActionID": "5064ecdd-effc-4d53-9155-d1458afd4d8e",
+            "Controller": "",
+            "Name": "ACE TC Decrease",
+            "Settings": {
+                "__sharpDeckUUID": "8fd2582c659e462188806907c1190330",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F15",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "TC −",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "2,2": {
+            "ActionID": "1e62276b-d2aa-4404-a956-97c6f23144ed",
+            "Controller": "",
+            "Name": "ACE DRS",
+            "Settings": {
+                "__sharpDeckUUID": "7f78ea7390674a76a98980076adff362",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "NUMPAD5",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "DRS",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "3,1": {
+            "ActionID": "6c7bb362-54c2-42c0-9a12-fa71123841e2",
+            "Controller": "",
+            "Name": "ACE TC Increase",
+            "Settings": {
+                "__sharpDeckUUID": "62438ab87eb748a6a47fb19fbb7d26c0",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F14",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "TC +",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "3,2": {
+            "ActionID": "c3c63950-46e7-4c2e-bb70-3d13db95d7e3",
+            "Controller": "",
+            "Name": "ACE Rain Light",
+            "Settings": {
+                "__sharpDeckUUID": "b907fc16976b417bbbcee47f518e85f1",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "NUMPAD6",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "ДОЖДЕВОЙ\nФОНАРЬ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "4,0": {
+            "ActionID": "858827bf-1a32-4714-aa07-a561ada8440d",
+            "Controller": "Keypad",
+            "Name": "Next page",
+            "Settings": {},
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 11,
+                    "Image": "Images/btn_nextPage",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.page.next"
+        },
+        "4,1": {
+            "ActionID": "07d3cac5-d378-44ae-8dcb-c57564de02f7",
+            "Controller": "",
+            "Name": "ACE Brake Bias Decrease",
+            "Settings": {
+                "__sharpDeckUUID": "2069a895e6e64dbda6d4a25b3b0667be",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F19",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "БАЛАНС\n−",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "3,0": {
+            "ActionID": "c4762bf7-a3e0-456c-9fc8-aede7d9b4afa",
+            "Controller": "",
+            "Name": "ACE Wipers Decrease",
+            "Settings": {
+                "__sharpDeckUUID": "7e34bc8d4a974bb2b7aa26413a4bd7b6",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F21",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "ДВОРНИКИ\n−",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "4,2": {
+            "ActionID": "c447c160-0e7f-4711-851c-247a53d39744",
+            "Controller": "",
+            "Name": "ACE Headlights Decrease",
+            "Settings": {
+                "__sharpDeckUUID": "ca1fcf9f375e4f17b3d15405f991ea9e",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "F23",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "ФАРЫ\n−",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        }
+    },
+    "DeviceModel": "20GBA9901",
+    "DeviceSerialNumber": null,
+    "DeviceUUID": "D6",
+    "Name": "УПРАВЛЕНИЕ",
+    "Version": "1.0"
+}

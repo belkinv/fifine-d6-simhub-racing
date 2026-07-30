@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <!-- Main background -->
+  <rect x="0" y="0" width="72" height="72" rx="8" fill="#412244"/>
+
+  <!-- F1 sector time bars (purple=best, green=personal best, yellow=slower) -->
+  <rect x="13" y="12" width="14" height="22" rx="2" fill="#9b59b6"/>
+  <rect x="29" y="12" width="14" height="22" rx="2" fill="#2ecc71"/>
+  <rect x="45" y="12" width="14" height="22" rx="2" fill="#f1c40f"/>
+
+  <!-- Two-line label -->
+  <text x="36" y="52" text-anchor="middle" dominant-baseline="central"
+        fill="#ffffff" font-family="Arial, sans-serif" font-size="10" font-weight="bold">SPLITS DELTA</text>
+  <text x="36" y="63" text-anchor="middle" dominant-baseline="central"
+        fill="#ffffff" font-family="Arial, sans-serif" font-size="8">CYCLE</text>
+</svg>

@@ -1,0 +1,671 @@
+{
+    "Actions": {
+        "0,0": {
+            "ActionID": "e36bddad-54e4-4f86-8023-23058029c29d",
+            "Controller": "",
+            "Name": "Tyre Pressure FL",
+            "Settings": {
+                "__sharpDeckUUID": "71652fcf545d48a189d6bafe2745505d",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "ПЕР. ЛЕВ.\n{:F1}",
+                "titleSimhubProperty": "dcp.gd.TyrePressureFrontLeft"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "0,1": {
+            "ActionID": "4d2959f3-31fe-4619-9ff4-9f50df25fe4a",
+            "Controller": "",
+            "Name": "Current Lap",
+            "Settings": {
+                "__sharpDeckUUID": "1558fdd569f54bd595c8999391acfdd9",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "КРУГ\n{:F0}",
+                "titleSimhubProperty": "dcp.gd.CurrentLap"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "0,2": {
+            "ActionID": "c5d2fb43-5376-42e6-a2e3-15bd40f6e44d",
+            "Controller": "",
+            "Name": "Pit Menu Up",
+            "Settings": {
+                "__sharpDeckUUID": "b086ee0dc20c463e9e9001160f03beba",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "UP",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ПИТ\nВВЕРХ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ПИТ\nВВЕРХ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "1,0": {
+            "ActionID": "8638a62a-144a-4984-b025-b89d8e3e14a9",
+            "Controller": "",
+            "Name": "Tyre Pressure FR",
+            "Settings": {
+                "__sharpDeckUUID": "5268ce6c660b4821a80654acb79fa346",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "ПЕР. ПРАВ.\n{:F1}",
+                "titleSimhubProperty": "dcp.gd.TyrePressureFrontRight"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "1,1": {
+            "ActionID": "e8a88159-2c82-4fd7-9b49-0b178a2e10be",
+            "Controller": "",
+            "Name": "Session Time Left",
+            "Settings": {
+                "__sharpDeckUUID": "8df0e67982534e8abe1b8e557ee11acc",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "ОСТАЛОСЬ\n{:hh\\:mm\\:ss}",
+                "titleSimhubProperty": "dcp.gd.SessionTimeLeft"
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "1,2": {
+            "ActionID": "84210390-9850-4f4e-80be-0dabe3c6a223",
+            "Controller": "",
+            "Name": "Pit Menu Down",
+            "Settings": {
+                "__sharpDeckUUID": "b23d673bb32e44a1be5614587615eb97",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "DOWN",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ПИТ\nВНИЗ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ПИТ\nВНИЗ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "2,0": {
+            "ActionID": "0a448814-9db7-458d-b774-dcf47d40a59d",
+            "Controller": "",
+            "Name": "Tyre Pressure RL",
+            "Settings": {
+                "__sharpDeckUUID": "31b2a170cb31495b96af7b88508aa5bc",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "ЗАД. ЛЕВ.\n{:F1}",
+                "titleSimhubProperty": "dcp.gd.TyrePressureRearLeft"
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "2,1": {
+            "ActionID": "d2e043f6-8325-4b97-972f-248da7639943",
+            "Controller": "",
+            "Name": "Last Lap Time",
+            "Settings": {
+                "__sharpDeckUUID": "bc95ef09d3ec4192a4e26b2791d7cfb3",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "ПОСЛЕДНИЙ\n{:m\\:ss\\.fff}",
+                "titleSimhubProperty": "dcp.gd.LastLapTime"
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "2,2": {
+            "ActionID": "4e009035-747b-480c-a859-5053641f3b76",
+            "Controller": "",
+            "Name": "Pit Menu Decrease",
+            "Settings": {
+                "__sharpDeckUUID": "1966b9fbcb9a4d3aab656f2c9ebef89e",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "LEFT",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ПИТ\n−",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ПИТ\n−",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "3,0": {
+            "ActionID": "99a0bd2b-6d84-41ed-920f-ca67ffecf89b",
+            "Controller": "",
+            "Name": "Tyre Pressure RR",
+            "Settings": {
+                "__sharpDeckUUID": "effe8c72c7b248cfbfce336caa3a6321",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "ЗАД. ПРАВ.\n{:F1}",
+                "titleSimhubProperty": "dcp.gd.TyrePressureRearRight"
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "3,1": {
+            "ActionID": "5ba666c9-3cb4-4509-a739-2bfa06e45cf8",
+            "Controller": "",
+            "Name": "Best Lap Time",
+            "Settings": {
+                "__sharpDeckUUID": "825b91b5ae6a47d19ff3df6b1406f1b1",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "ЛУЧШИЙ\n{:m\\:ss\\.fff}",
+                "titleSimhubProperty": "dcp.gd.BestLapTime"
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "3,2": {
+            "ActionID": "c7076fec-993f-4d60-b4d1-b6b82d5a942f",
+            "Controller": "",
+            "Name": "Pit Menu Increase",
+            "Settings": {
+                "__sharpDeckUUID": "df244df7ac4246db9f52be6dc97f4bb5",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "RIGHT",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ПИТ\n+",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "ПИТ\n+",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "4,0": {
+            "ActionID": "667388b1-4c8a-4a1b-943b-0689482d70ad",
+            "Controller": "Keypad",
+            "Name": "Next page",
+            "Settings": {
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 11,
+                    "Image": "Images/btn_nextPage",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "com.hotspot.streamdock.page.next"
+        },
+        "4,1": {
+            "ActionID": "e156b5bf-3820-4abe-bfec-798ca234b324",
+            "Controller": "",
+            "Name": "Fuel Remaining Laps",
+            "Settings": {
+                "__sharpDeckUUID": "1d3971d83a7247e9a6105b85b5b8688f",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "",
+                "simhubRole": "",
+                "titleFormat": "ТОПЛИВО\n{:F1} КР.",
+                "titleSimhubProperty": "dcp.gd.CarSettings_FuelAlertFuelRemainingLaps"
+            },
+            "State": 1,
+            "States": [
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 14,
+                    "Image": "images/custom/blank",
+                    "Title": "",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        },
+        "4,2": {
+            "ActionID": "508e7a9d-4e58-4ed1-bf20-0223f63b9fbf",
+            "Controller": "",
+            "Name": "In Pit",
+            "Settings": {
+                "__sharpDeckUUID": "78850f3faabb476793f923c2bd36e7ec",
+                "alt": false,
+                "ctrl": false,
+                "hasLongKeypress": false,
+                "hotkey": "",
+                "longKeypressSettings": {
+                    "alt": false,
+                    "ctrl": false,
+                    "hotkey": "",
+                    "shift": false,
+                    "simhubControl": "",
+                    "simhubRole": ""
+                },
+                "longKeypressShortHoldTime": 50,
+                "longKeypressTimeSpan": 500,
+                "shift": false,
+                "simhubControl": "",
+                "simhubProperty": "dcp.gd.IsInPit",
+                "simhubRole": "",
+                "titleFormat": "",
+                "titleSimhubProperty": ""
+            },
+            "State": 0,
+            "States": [
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "В ПИТЕ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                },
+                {
+                    "FontSize": 12,
+                    "Image": "images/custom/blank",
+                    "Title": "В ПИТЕ",
+                    "TitleAlignment": "middle",
+                    "TitleColor": "#ffffff"
+                }
+            ],
+            "UUID": "net.planetrenner.simhub.hotkey"
+        }
+    },
+    "DeviceModel": "20GBA9901",
+    "DeviceSerialNumber": null,
+    "DeviceUUID": "D6",
+    "Name": "PIT",
+    "Version": "1.0"
+}
